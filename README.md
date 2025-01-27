@@ -1,7 +1,3 @@
-To organize your code for sharing on GitHub in a clean and structured manner, here's a formatted version of your content:
-
----
-
 # Swift Practice: Arrays, Sets, Dictionaries, and More
 
 This repository contains exercises to practice Swift fundamentals, such as arrays, sets, dictionaries, conditionals, loops, optionals, and more.
@@ -256,8 +252,3 @@ if isPrime {
 } else {
     print("Deyil")
 }
-```
-
----
-
-This structure should make it easy to share and read your code on GitHub. Let me know if you need any adjustments!
